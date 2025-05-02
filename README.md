@@ -45,28 +45,3 @@ Python 3
 
 String formatting & validation logic
 
-📁 Files
-arithmetic_formatter.py – The main Python script
-
-(Optional) arithmetic_formatter.ipynb – A notebook version with examples and tests
-
-📎 Related Topics
-String manipulation
-
-Input validation
-
-Basic error handling
-
-Formatting for console output
-
-🎯 This project is part of a broader track on Scientific Computing with Python.
-
-yaml
-Copy
-Edit
-
----
-
-You can tweak the file/folder names if needed, depending on how you're organizing the repo.
-
-Would you like help setting up the `repo structure` or moving to the **next project** (maybe another Scientific Computing one)?
